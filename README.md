@@ -2,7 +2,7 @@
 
 ElectronicsStore - это интернет-магазин электроники.
 
-Работу приложения можно посмотреть здесь: [ElectronicsStore](http://167.99.236.32)
+Работу приложения можно посмотреть здесь: [ElectronicsStore](https://electronics-store-on-react.herokuapp.com/)
 
 Это server, Frontend находится здесь: [Frontend](https://github.com/Igor-Shevtsov/electronics-store-front)
 
